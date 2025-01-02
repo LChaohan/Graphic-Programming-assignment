@@ -1,0 +1,1141 @@
+﻿  Source.cpp
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(160,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(160,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(160,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(192,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(192,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(192,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(201,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(201,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(201,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(224,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(224,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(224,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(241,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(241,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(274,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(298,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(298,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(298,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(314,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(331,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(352,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(352,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(352,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(353,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(353,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(354,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(354,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(369,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(369,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(369,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(370,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(370,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(371,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(371,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(385,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(385,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(385,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(386,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(386,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(387,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(387,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(401,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(401,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(401,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(402,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(402,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(403,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(403,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(417,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(417,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(417,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(418,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(418,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(418,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(419,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(419,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(419,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(433,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(433,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(434,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(434,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(435,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(435,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(453,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(453,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(453,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(454,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(454,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(455,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(455,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(470,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(470,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(470,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(471,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(471,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(472,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(472,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(486,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(486,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(486,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(487,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(487,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(488,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(488,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(502,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(502,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(502,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(503,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(503,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(504,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(504,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(518,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(518,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(518,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(519,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(519,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(519,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(520,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(520,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(520,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(534,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(534,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(535,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(535,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(536,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(536,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(565,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(565,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(566,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(566,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(567,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(567,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(579,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(579,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(580,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(580,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(592,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(592,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(593,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(593,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(594,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(594,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(608,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(608,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(609,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(609,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(610,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(610,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(654,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(655,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(655,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(656,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(656,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(669,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(669,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(670,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(670,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(683,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(683,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(684,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(684,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(697,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(697,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(698,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\util.h(698,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(23,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(254,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(416,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(425,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(435,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(699,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(700,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(705,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(706,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(923,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(923,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(925,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(925,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(925,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(927,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(927,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(927,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(929,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(929,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(932,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(932,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(932,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(934,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(934,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(934,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(936,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(936,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(936,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(938,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(938,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(938,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(941,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(941,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(941,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(943,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(943,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(943,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(945,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(945,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(945,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(947,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(947,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(947,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(956,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(956,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(956,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(958,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(958,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(958,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(960,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(960,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(960,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(962,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(962,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(962,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(965,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(965,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(965,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(967,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(967,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(967,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(969,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(969,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(969,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(971,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(971,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(971,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(974,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(974,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(974,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(976,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(976,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(978,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(978,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(978,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(980,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(980,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(980,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(984,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(984,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(984,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(986,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(986,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(988,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(988,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(988,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(990,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(990,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(990,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(996,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(996,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(996,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(998,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(998,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(998,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1000,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1000,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1000,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1002,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1002,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1002,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1005,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1005,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1005,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1007,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1007,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1007,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1009,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1009,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1009,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1011,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1011,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1011,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1014,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1014,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1014,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1016,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1016,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1018,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1018,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1018,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1020,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1020,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1020,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1023,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1023,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1023,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1025,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1025,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1027,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1027,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1027,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1029,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1029,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1029,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1033,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1033,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1033,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1035,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1035,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1035,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1037,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1037,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1037,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1039,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1039,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1039,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1045,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1045,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1045,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1046,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1046,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1046,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1046,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1047,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1047,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1047,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1047,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1048,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1048,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1048,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1048,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1049,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1049,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1049,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1049,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1049,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1050,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1050,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1050,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1050,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1051,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1051,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1059,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1059,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1059,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1060,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1060,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1060,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1060,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1061,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1061,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1061,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1061,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1062,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1062,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1062,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1062,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1063,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1063,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1063,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1063,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1063,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1064,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1064,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1064,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1064,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1065,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1065,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1078,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1078,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1078,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1080,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1080,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1082,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1082,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1082,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1084,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1084,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1084,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1087,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1087,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1087,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1089,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1089,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1089,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1091,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1091,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1091,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1093,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1093,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1093,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1096,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1096,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1096,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1098,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1098,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1098,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1100,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1100,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1100,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1102,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1102,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1102,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1105,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1105,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1105,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1107,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1107,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1107,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1109,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1109,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1109,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1111,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1111,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1111,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1114,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1114,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1114,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1116,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1116,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1116,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1118,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1118,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1118,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1120,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1120,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1120,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1123,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1123,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1123,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1125,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1125,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1125,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1127,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1127,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1129,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1129,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1129,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1134,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1134,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1134,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1136,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1136,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1138,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1138,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1138,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1140,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1140,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1140,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1143,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1143,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1143,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1145,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1145,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1145,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1147,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1147,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1147,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1149,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1149,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1149,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1152,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1152,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1152,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1154,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1154,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1154,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1156,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1156,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1156,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1158,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1158,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1158,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1161,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1161,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1161,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1163,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1163,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1163,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1165,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1165,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1165,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1167,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1167,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1167,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1170,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1170,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1170,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1172,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1172,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1172,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1174,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1174,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1174,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1176,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1176,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1176,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1179,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1179,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1179,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1181,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1181,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1181,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1183,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1183,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1185,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1185,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1185,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1191,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1191,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1191,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1193,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1193,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1193,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1195,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1195,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1195,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1197,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1197,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1197,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1201,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1201,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1201,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1203,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1203,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1203,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1205,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1205,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1205,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1207,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1207,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1207,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1211,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1211,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1211,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1213,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1213,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1213,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1215,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1215,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1215,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1217,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1217,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1217,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1221,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1221,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1221,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1223,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1223,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1223,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1225,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1225,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1227,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1227,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1234,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1234,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1234,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1235,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1235,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1235,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1236,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1236,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1236,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1238,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1238,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1238,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1238,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1239,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1239,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1239,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1239,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1240,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1240,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1240,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1240,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1243,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1243,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1243,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1243,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1244,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1244,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1244,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1244,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1245,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1245,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1245,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1247,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1247,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1247,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1247,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1248,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1248,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1248,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1248,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1249,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1249,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1249,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1249,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1257,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1257,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1258,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1258,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1258,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1258,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1259,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1259,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1259,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1259,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1260,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1260,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1260,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1260,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1260,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1261,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1261,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1261,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1261,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1262,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1262,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1262,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1262,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1262,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1263,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1263,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1263,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1263,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1263,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1264,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1264,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1264,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1264,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1264,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1265,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1265,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1265,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1265,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1265,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1273,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1273,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1274,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1274,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1274,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1274,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1275,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1275,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1275,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1275,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1276,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1276,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1276,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1276,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1276,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1277,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1277,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1277,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1277,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1278,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1278,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1278,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1278,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1278,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1279,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1279,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1279,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1279,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1279,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1280,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1280,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1280,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1280,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1280,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1281,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1281,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1281,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1281,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1281,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1289,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1289,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1289,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1290,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1290,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1291,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1291,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1291,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1294,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1294,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1294,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1294,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1295,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1295,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1296,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1296,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1296,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1308,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1308,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1310,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1310,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1312,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1312,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1312,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1314,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1314,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1314,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1320,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1320,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1322,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1322,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1322,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1324,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1324,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1324,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1326,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1326,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1326,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1332,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1332,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1332,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1334,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1334,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1336,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1336,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1336,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1338,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1338,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1338,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1346,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1346,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1346,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1348,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1348,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1348,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1350,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1350,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1352,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1352,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1352,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1356,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1356,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1356,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1358,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1358,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1358,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1360,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1360,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1362,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1362,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1362,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1370,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1370,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1370,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1371,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1371,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1371,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1371,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1371,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1372,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1372,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1372,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1372,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1372,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1373,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1373,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1373,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1373,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1373,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1374,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1374,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1374,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1374,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1375,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1375,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1375,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1375,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1386,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1386,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1388,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1388,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1390,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1390,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1390,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1392,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1392,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1392,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1397,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1397,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1397,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1399,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1399,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1399,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1401,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1401,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1401,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1403,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1403,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1403,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1547,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1611,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1611,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1611,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1656,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1656,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1656,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1743,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1744,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1754,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1756,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1758,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1775,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1782,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1802,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1810,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1877,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1879,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1881,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1908,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1915,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1935,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(1943,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2010,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2010,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2144,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2144,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2245,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2287,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2290,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2296,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2303,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2328,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2343,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2362,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2379,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2394,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2395,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2560,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2567,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2574,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2581,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2587,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2593,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2599,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2615,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2622,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2643,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2651,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2662,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2670,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2701,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2703,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2729,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2731,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2754,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2754,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2754,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2785,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2785,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2785,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2954,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2955,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(2955,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3065,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3065,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3065,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3118,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3118,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3118,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3124,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3124,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3124,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3139,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3139,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3224,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3224,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Assignment\Assignment\Assignment\Source.cpp(3224,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Assignment.vcxproj -> C:\Users\User\Downloads\Assignment\Assignment\Debug\Assignment.exe

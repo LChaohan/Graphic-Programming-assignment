@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Texture">
+      <UniqueIdentifier>{e00a6aab-6ad4-49f7-9078-ee625e116e2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Drawing">
+      <UniqueIdentifier>{a2d6c6f9-da40-463e-814d-7c4b218c1183}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="util.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="bronze1.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="blackMetal.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="blade.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="bolt.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="brick.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="bronze2.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="bronze3.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="bronze3Quad.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="darkMetal.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="darkRustyMetal.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="darkRustyMetalBright.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="gun.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="gunCamo.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="metal.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="weatheredMetal.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="camoPlate.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="army.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="camo.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="original.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="texture.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="darkCamo.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="palmCamo.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="green.png">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="darkOlive.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="darkDarkOlivePlain.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="olivePlate.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="weatheredMetal2.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="fluffy.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="bulletRow.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="logo.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="logo2.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="logo3.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="logo6.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+    <Image Include="logo7.bmp">
+      <Filter>Source Files\Texture</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
